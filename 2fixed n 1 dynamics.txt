@@ -25,12 +25,7 @@
 (Xpath)[1] :- syntax
 
 (//span[text()='Add to Compare'])[1]
-(//span[text()='Add to Compare'])[1]/../../../../..
-
-
-(Xpath)[1] :- syntax 
-1fixed element :-
-(//li[text()='8 GB RAM | 128 GB ROM | Expandable Upto 1 TB'])[1]
+(//span[text()='Add to Compare'])[1]/../../../.
 
 
 predicate function :- check for the application link in web page 
