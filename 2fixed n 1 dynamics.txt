@@ -1,6 +1,6 @@
 
  *) 2fixed and 1 dynamics elements :-
-
+2fixed and 1 dynamics elements :-
  * syntax :- 
 1fixed
 /..
