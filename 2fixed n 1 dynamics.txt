@@ -1,0 +1,48 @@
+
+2fixed and 1 dynamics elements :-
+
+ * syntax :- 
+1fixed
+/..
+1fixed
+/..
+1dynamic
+
+
+(//span[text()='Add to Compare'])[1]/../../../../..//div[text()='realme 10 Pro 5G (Hyperspace, 128 GB)']/../..//div[@class="_30jeq3 _1_WHN1"]
+
+
+1fixed and 1 dynamic :-
+ *syntax :-
+1 fixed
+/..
+1dynamic 
+
+(//div[text()='realme 10 Pro 5G (Dark Matter, 128 GB)'])/../..//div[@class='_30jeq3
+
+
+
+(Xpath)[1] :- syntax
+
+(//span[text()='Add to Compare'])[1]
+(//span[text()='Add to Compare'])[1]/../../../../..
+
+
+(Xpath)[1] :- syntax 
+1fixed element :-
+(//li[text()='8 GB RAM | 128 GB ROM | Expandable Upto 1 TB'])[1]
+
+
+predicate function :- check for the application link in web page 
+ 1) text()                                     a//
+2) contain()                                 (a//)[1]         
+3) last()                                       (a//)[last()]
+4) position()                               1)  (a//)[position() mod 2 =0 ] for even
+                                                 2)  (a//)[position() mod 2 =1 ] for odd
+5) starts-with()
+
+
+
+
+
+
